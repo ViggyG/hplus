@@ -1,0 +1,19 @@
+#oList {
+    background-color: #6C7886;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.litem {
+    float: left;
+    margin: 0px;
+}
+
+.litem .rl {
+    display: block;
+    text-align: center;
+    padding: 12px 16px;
+    margin: 0px;
+}

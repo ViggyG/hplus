@@ -1,0 +1,22 @@
+.nav {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+.fright {
+    float: right;
+}
+
+#uname {
+    padding-left: 20px;
+    font-size: 1em;
+    color: #6C7886;
+    margin: 15px;
+    border-left: 2px solid #6C7886;
+}

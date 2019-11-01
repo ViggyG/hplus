@@ -1,0 +1,14 @@
+#auth-outer {
+    color: #6C7886;
+    margin: 50px;
+    width: 33%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#auth-inner {
+    width: 50%;
+    font-size: 1.2em;
+    text-align: center;
+}

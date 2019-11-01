@@ -1,0 +1,9 @@
+.rl {
+    color: #FFFAF2;
+}
+
+.rl:hover {
+    background-color: #FFFAF2;
+    color: #6C7886;
+    cursor: pointer;
+}
