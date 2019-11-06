@@ -1,0 +1,12 @@
+.card {
+    color: #6C7886;
+    text-align: center;
+    border: 3px solid #6C7886;
+    margin: 10px;
+    border-radius: 10px; 
+}
+
+.card:hover {
+    transition-duration: .5s;
+    transform: scale(1.02);
+}

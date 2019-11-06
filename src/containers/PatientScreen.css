@@ -1,0 +1,29 @@
+
+
+.fullname {
+    border-bottom: 2px solid #6C7886;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
+
+.patient-details {
+    color: #6C7886;
+}
+
+.patient-cont {
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+}
+
+.patient-options {
+    margin-top: 4px;
+    background-color: #6C7886;
+}
+
+.patient-options .rl {
+    text-align: center;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

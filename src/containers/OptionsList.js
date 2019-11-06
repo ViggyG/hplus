@@ -11,7 +11,7 @@ class OptionsList extends Component {
                 <li key={i} className='litem'>
                 <RouteLink 
                     text={option.text}
-                    routeFunction={this.props.routeFunction}
+                    onClickFunction={this.props.routeFunction}
                     newRoute={option.newRoute}
                 />
                 </li>
@@ -21,7 +21,7 @@ class OptionsList extends Component {
 
     render() {
         return(
-            <ul id='oList'>
+            <ul className={this.props.listClass}>
                 {this.optionsArray}
             </ul>
         )

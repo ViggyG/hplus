@@ -6,7 +6,8 @@ import './App.css';
 
 const testuser = {
   userid: 1,
-  name: 'Gaelin Vigelius'
+  name: 'Gaelin Vigelius',
+  priv: 'emp',
 }
 
 const initialState = {
